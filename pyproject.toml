@@ -1,0 +1,9 @@
+[project]
+name = "py_AGFJ"
+version = "0.1.0"
+description = "A discussion based game written in python."
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "pygame>=2.6.1",
+]
